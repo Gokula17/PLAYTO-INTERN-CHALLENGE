@@ -1,4 +1,4 @@
-# KYCFlow — Merchant Onboarding & KYC System
+# KYCFlow — Digital KYC & Onboarding Platform
 
 KYCFlow is a high-performance, full-stack KYC (Know Your Customer) onboarding pipeline built for the **Playto Founding Engineering Intern Challenge**. It enables merchants to submit multi-step compliance data and allows reviewers to manage, audit, and provide feedback on submissions via a centralized queue with automated SLA tracking.
 
