@@ -16,7 +16,7 @@ ALLOWED_HOSTS = [
     'kycflow-system.onrender.com',
     'localhost',
     '127.0.0.1',
-    '*'
+    'playto-intern-challenge.onrender.com'
 ]
 
 CSRF_TRUSTED_ORIGINS = [
